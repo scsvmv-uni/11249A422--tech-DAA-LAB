@@ -1,0 +1,11 @@
+Enter number of vertices: 4
+Enter adjacency matrix:
+0 2 0 6
+2 0 3 8
+0 3 0 0
+6 8 0 0
+
+Edges in MST:
+Edge cost: 2
+Edge cost: 3
+Edge cost: 6
