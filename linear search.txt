@@ -1,0 +1,3 @@
+Key to be searched: 527
+Element found at position 3487
+Total time taken for execution: 0.000002
