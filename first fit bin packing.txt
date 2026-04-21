@@ -1,0 +1,14 @@
+Enter number of items: 5
+Enter bin capacity: 10
+Enter size of item 1: 4
+Enter size of item 2: 8
+Enter size of item 3: 1
+Enter size of item 4: 4
+Enter size of item 5: 2
+
+Remaining space in bins:
+Bin 1: 0.00
+Bin 2: 2.00
+Bin 3: 9.00
+Bin 4: 6.00
+Bin 5: 8.00
